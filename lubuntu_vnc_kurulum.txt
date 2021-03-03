@@ -1,0 +1,12 @@
+http://linuxlubuntu.blogspot.com/2011/02/setup-vnc-server-for-lubuntu.html
+
+http://xubuntugeek.blogspot.com/2011/12/add-application-to-xfcexubuntu-session.html
+
+https://www.fosslicious.com/2018/10/how-to-make-plank-autostart-on-xubuntu.html
+
+
+flow control 
+packet size
+protocols 
+error handling 
+secur

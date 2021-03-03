@@ -1,0 +1,2 @@
+
+	$ tar xvfz dosya_adi.tar.gz
