@@ -1,0 +1,19 @@
+# oncelikle github da bir repostory olustur ben genelde yukleyecegım kalsor ile aynı ismi kullanıyorum 
+
+# yukleyecegın dosyalaerın bulundugu kalsore gel ve 
+	$ git init 
+
+	$ git add .
+
+# git status diyip commit edielecek doayalara bak bakalım , kommit etmek istediğinin adını yaz ya da tamamını commit et 
+	$ git status 
+
+	$ git commit -m "ilk kommit m demek hepsini kommit et demek"
+
+# olusturdugun repostronin  adresini kopayala ve remote add de 
+	$ git remote add linux_notlar_repo https://github.com/burakBoyuk/linux_notlar.git
+# olusturulmus mu bır bak bakalım 
+	$ git remote 
+
+# git push u geri kalanı sana kalmıs master eklemeyı unutma 
+	$ git push -u linux_notlar_repo master
