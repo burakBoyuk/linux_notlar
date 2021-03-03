@@ -1,0 +1,6 @@
+git kullanarak github a calıstıgım dosyaları yuklemek cok eglenceli 
+bir o kadar da faydalı bazen yanlıslıkla sılınen dosyalarıma tekrar ulasabılıyorum
+ayrıca verıyonlamak ve versıyonlara ulasmak bence cok onemlı 
+
+zamanla daha ıyı bır kullanıcı olacagımı dusunuyorum 
+git hayat kuratır :)

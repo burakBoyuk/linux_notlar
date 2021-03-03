@@ -17,3 +17,7 @@
 
 # git push u geri kalanı sana kalmıs master eklemeyı unutma 
 	$ git push -u linux_notlar_repo master
+
+# yaptıgın degısıklıklerı gormek ıcın farklılıklar desek daha dogru olur 
+	$ git diff
+	$ git diff linux_notlar
